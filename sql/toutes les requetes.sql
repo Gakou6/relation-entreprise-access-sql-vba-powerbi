@@ -1,7 +1,4 @@
 -- ============================================================
--- SAÉ 2.01 – Relation Entreprise – IUT de Roubaix
--- AMENTI Delali Merveille – BUT Sciences des Données
--- Fichier : requetes_relation_entreprise.sql
 -- Toutes les requêtes SQL du rapport (Access SQL)
 -- ============================================================
 
